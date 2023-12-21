@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yawar-gif-gallary/static/css/main.fc4ba723.css",
+    "main.js": "/yawar-gif-gallary/static/js/main.e530ae94.js",
+    "static/js/787.4b9305ae.chunk.js": "/yawar-gif-gallary/static/js/787.4b9305ae.chunk.js",
+    "static/media/logo.svg": "/yawar-gif-gallary/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yawar-gif-gallary/index.html",
+    "main.fc4ba723.css.map": "/yawar-gif-gallary/static/css/main.fc4ba723.css.map",
+    "main.e530ae94.js.map": "/yawar-gif-gallary/static/js/main.e530ae94.js.map",
+    "787.4b9305ae.chunk.js.map": "/yawar-gif-gallary/static/js/787.4b9305ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc4ba723.css",
+    "static/js/main.e530ae94.js"
+  ]
+}
