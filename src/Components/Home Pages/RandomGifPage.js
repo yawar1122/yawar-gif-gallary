@@ -30,11 +30,9 @@ function RandomGifPage({ favGIF, setFavGIF }) {
 
     setLoading(false);
   }
-  // console.log(gifArray);
 
   useEffect(() => {
     fetchGif();
-    console.log("Rendering");
   }, []);
 
   return (

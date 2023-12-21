@@ -3,7 +3,9 @@ import React from 'react'
 function Intro({darkMode}) {
   return (
     <div
-        className={` borde ${
+        className={` borde
+          
+         ${
           darkMode ? "bg-white text-slate-950" : "bg-[rgba(251,251,251,1)] text-black"
         }  px-20 py-2  rounded-md shadow-xl z-10 mt-3 text-center `}
       >
