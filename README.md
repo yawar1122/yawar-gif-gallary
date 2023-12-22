@@ -1,2 +1,2 @@
-
-# gif-gallary-app
+Clone this app 
+github clone 
